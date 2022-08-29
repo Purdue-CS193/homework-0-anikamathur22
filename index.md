@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+# Anika's First CS193 Homework
+My Favorite Things About CS193
+- I like how the class is early in the week
+- I like how the class is right after one class of CS 180, so I could easily connect both lessons
+- I like how this class is able to be connected directly to real-world careers
+
+
+__________________________________________________________________________________________________________________________
+
 Hello! This is a test to see if the text will update.
 :)
 
